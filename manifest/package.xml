@@ -3,6 +3,7 @@
     
     <types>
         <members>testLwcForJenkins</members>
+        <members>testLwcForJenkins2</members>
         <name>AuraDefinitionBundle</name>
     </types>
     
